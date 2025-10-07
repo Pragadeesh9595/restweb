@@ -1,4 +1,4 @@
-<img width="1694" height="847" alt="Screenshot 2025-10-07 221524" src="https://github.com/user-attachments/assets/14403100-0150-44b4-a5a9-c5fca51fd057" /><img width="1748" height="855" alt="Screenshot 2025-10-07 222156" src="https://github.com/user-attachments/assets/9cf9b54f-0418-4ab9-be74-8366ac98c999" /># Ex.07 Restaurant Website
+Ex.07 Restaurant Website
 ## Date:
 
 ## AIM:
